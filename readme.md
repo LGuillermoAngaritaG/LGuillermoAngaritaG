@@ -4,9 +4,11 @@ My name is Guillermo and I am a Data Scientist, I love explaining data with Stat
 
 My Ph.D. research was based on new methods of characterization for hydrodynamic phenomena in Pumps working as Turbines using CFD simulations, Artificial Intelligence, and Experimental Techniques. I believe that there is always something that can be done better in an organization and my skills allow me to find just that. My biggest interest is applying artificial intelligence tools to predict the behavior of data and to produce tools that can be used in improving processes. 
 
-Below you can see the projects I have worked on. The majority are private Repos because they can be purchased, or are being published in a research paper. If you need more information about my work please contact me.
+Below you can see the projects I have worked on. The majority are private Repos because they are part of products that can be purchased, or are being published in a research paper. If you need more information about my work please contact me.
 
-* Data Mining
+## Data Mining
+
+These projects are about data extraction from websites or APIs, using popular Python libraries such as Scrapy, Selenium, Beautiful Soup or Requests.
 
 | Title                                                               | Description URL | Public GitHub |
 |---------------------------------------------------------------------|-----------------|---------------|
@@ -20,14 +22,14 @@ Below you can see the projects I have worked on. The majority are private Repos 
 | SIPRA web scraping                                                  | YES             | NO            |
 | DANE web scraping                                                   | YES             | NO            |
 
-* Tools and software
+## Tools and software
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
+## Machine Learning
+## Deep Learning
+## Computer Vision
+## Natural Language Processing
 
-* Statistical Analysis
+## Statistical Analysis
 
 | Title                                    | Descriptive URL    | Public GitHub |
 |------------------------------------------|--------------------|---------------|
