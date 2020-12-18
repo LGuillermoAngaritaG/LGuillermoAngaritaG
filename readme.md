@@ -52,7 +52,7 @@ I have worked with many types of applications to analyze images but the one I ha
 For now, I have only used classification and clustering models in machine learning, but I'm looking forward to being able to use more models in solving new problems:
 
 * **ADR - Prediction of projects:** This project was the last project of my course in data science by Correlation One and Mintic. In this work, 2 products were made: a dashboard for ADR management to know statistically how the projects are composed, and an android app that predicts if a project will be financed by ADR.
-* **Real State Prices:** This project was the last project of my Course in data science by IBM. In this work, I predicted the prices of properties based in their location and number of rooms.
+* **Real State Prices:** This project was the last project of my Course in data science by IBM. In this work, I predicted the prices of properties based on their location and number of rooms.
 
 ## Natural Language Processing
 
@@ -66,7 +66,7 @@ NLP is an area that can solve a lot of problems for an organization. I analyzed 
 
 I have worked on 2 projects concerning Deep Learning using TensorFlow 
 
-* **Image Segmentation of a Vortex:** With a dataset of more than 200000 images I made an application that segments these images based on Unet neural network.
+* **Image Segmentation of a Vortex:** With a dataset of more than 200000 images I made an application that segments these images based on the Unet neural network.
 * **Phenomena prediction in Hydraulics:** With TensorFlow, I predicted when a hydraulic phenomenon is occurring in a pump working as a turbine, analyzing a dataset of more than 1 billion registries.
 
 
