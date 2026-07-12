@@ -52,5 +52,3 @@ This section contains the code, datasets, and supporting materials for selected 
 | Agentic AI in Databricks                  | A lecture presented at EIA University introducing AI agents and explaining how to build and use them in the Databricks environment. | `Agentic AI`, `Databricks`, `LLMs`, `Education`               |
 | Pumps Working as Turbines                 | Code and results from a literature review examining the use of pumps operating as turbines.                                         | `Literature Review`, `Hydraulic Engineering`, `Data Analysis` |
 | Vortex Rope Characterization Using Images | Code and research materials for characterizing vortex ropes through image-based analysis.                                           | `Computer Vision`, `Image Processing`, `Fluid Mechanics`      |
-
-Two links appear to need verification: **Smart Nutrition** currently points to the Day Conductor URL, and **Audiobook Creator** points to the Open Portfolio repository.
