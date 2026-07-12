@@ -12,12 +12,12 @@ These are products I've made to help people with their daily job and hobbies.
 | --- | --- | ---|
 | [Dictaria](https://dictaria.andesprit.com) | A web application for transcribing and summarizing meetings with a strong focus on accuracy and privacy. | `Audio Processing`, `LLMs`, `Web Development`, `On-Device Models`|
 | [Day Conductor](https://dayconductor.andesprit.com)   | A science-backed application for planning your day and staying focused while carrying out your plans. | `Web Development`, `App Development` |
-| [Smart Nutrition](https://dayconductor.andesprit.com) | An application that analyzes product labels and explains how their nutritional quality compares with local standards. | `Web Development`, `App Development`, `VLMs`, `LLMs`|
-| Whisper Pal | A desktop application that turns your voice into text from anywhere in your operating system. | `Audio Processing`, `LLMs`, `Desktop Apps` |
-| Smart Pomodoro | An adaptive Pomodoro timer that determines your break duration based on the amount of focused work you complete. | `Web Development`, `App Development` |
-| Study Buddy | A study assistant that uses time-series modeling to predict when you should review a question again. | `Time Series`, `LLMs` |
-| Library Recommendation | Uses a vision-language model to identify books in a photo, then applies a recommendation system to predict which ones you are most likely to enjoy. | `Web Development`, `App Development`, `VLMs`, `Recommendation Systems` |
-| Chord Changer | A structured practice tool for improving guitar chord recognition and transitions. | `Web Development`, `App Development` |
+| [Smart Nutrition](https://github.com/Andesprit/smart-nutrition) | An application that analyzes product labels and explains how their nutritional quality compares with local standards. | `Web Development`, `App Development`, `VLMs`, `LLMs`|
+| [Whisper Pal](https://github.com/Andesprit/whisper-pal) | A desktop application that turns your voice into text from anywhere in your operating system. | `Audio Processing`, `LLMs`, `Desktop Apps` |
+| [Smart Pomodoro](https://github.com/Andesprit/smart_pomodoro) | An adaptive Pomodoro timer that determines your break duration based on the amount of focused work you complete. | `Web Development`, `App Development` |
+| [Study Buddy](https://github.com/Andesprit/study-buddy) | A study assistant that uses time-series modeling to predict when you should review a question again. | `Time Series`, `LLMs` |
+| [Library Recommendation](https://github.com/Andesprit/library-recommendation) | Uses a vision-language model to identify books in a photo, then applies a recommendation system to predict which ones you are most likely to enjoy. | `Web Development`, `App Development`, `VLMs`, `Recommendation Systems` |
+| [Chord Changer](https://github.com/Andesprit/chord-changes) | A structured practice tool for improving guitar chord recognition and transitions. | `Web Development`, `App Development` |
 
 ## Open-Source Products
 
@@ -30,7 +30,7 @@ These are some of my contributions to the open-source community.
 | [Open Portfolio](https://github.com/Andesprit/open-portfolio)                 | A web application for building and maintaining a personal portfolio using only YAML and Markdown files.                                            | `Web Development`, `YAML`, `Markdown`                   |
 | [Audiobook Creator](https://github.com/Andesprit/audiobook-creator)              | A browser-based application that runs a text-to-speech model locally to create audiobooks.                                                         | `Web Development`, `Text-to-Speech`, `On-Device Models` |
 | [Scraping Pipeline](https://github.com/Andesprit/scraping_listings) | A configuration-driven web-scraping pipeline built with Scrapy and Playwright. Scrapers can be defined using YAML without writing additional code. | `Web Scraping`, `SQL`, `CI/CD`, `Scrapy`, `Playwright`  |
-| AI Subscription Optimizer                                                     | Estimates how many tasks or messages remain in an AI subscription based on the plan limits and historical usage.                                   | `Optimization`, `Usage Analytics`                       |
+| [AI Subscription Optimizer](https://github.com/Andesprit/ai-subscription-optimizer) | Estimates how many tasks or messages remain in an AI subscription based on the plan limits and historical usage.                                   | `Optimization`, `Usage Analytics`                       |
 
 ## Toy Projects
 
@@ -51,4 +51,4 @@ This section contains the code, datasets, and supporting materials for selected 
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | Agentic AI in Databricks                  | A lecture presented at EIA University introducing AI agents and explaining how to build and use them in the Databricks environment. | `Agentic AI`, `Databricks`, `LLMs`, `Education`               |
 | Pumps Working as Turbines                 | Code and results from a literature review examining the use of pumps operating as turbines.                                         | `Literature Review`, `Hydraulic Engineering`, `Data Analysis` |
-| Vortex Rope Characterization Using Images | Code and research materials for characterizing vortex ropes through image-based analysis.                                           | `Computer Vision`, `Image Processing`, `Fluid Mechanics`      |
+| [Vortex Rope Characterization Using Images](https://github.com/LGuillermoAngaritaG/NOVEL_METHOD_FOR_VORTEX_ROPE_CHARACTERIZATION) | Code and research materials for characterizing vortex ropes through image-based analysis.                                           | `Computer Vision`, `Image Processing`, `Fluid Mechanics`      |
