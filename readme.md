@@ -47,7 +47,7 @@ Most of my projects begin here. I build a proof of concept around an interesting
 
 | Name | Description | Topics |
 | --- | --- | --- |
-| [guille-plugins](https://github.com/LGuillermoAngaritaG/claude-plugins) | Claude Code plugins for status, Python workflows, diagrams and plain-English rewrites. Public source · license unspecified. The claudish-to-english plugin is by Mike Gvozdev (MIT). Other plugin licenses must be checked individually. | `Agents`, `Developer Tools`, `Workflow Automation` |
+| [guille-plugins](https://github.com/LGuillermoAngaritaG/claude-plugins) | Claude Code plugins for status, Python workflows, diagrams, plain-English rewrites and Colab-based media generation. Public source · license unspecified. The claudish-to-english plugin is by Mike Gvozdev (MIT). Other plugin licenses must be checked individually. | `Agents`, `Developer Tools`, `Workflow Automation` |
 | [Self-hosted Research Prototype](https://github.com/LGuillermoAngaritaG/on_premise_deep_researcher) | A self-hosted research prototype whose documented defaults use external models and search. Public source · license unspecified. | `Agents`, `NLP`, `Backend`, `Tool Integration` |
 | [Scraping Pipeline](https://github.com/LGuillermoAngaritaG/scraping_listings) | Configure Scrapy and Playwright property-listing scrapers with YAML. Academic and educational scope. Public source · license unspecified. The README and license scope need reconciliation before asserting an unrestricted MIT grant. | `Web Scraping`, `Data Engineering`, `Browser Automation` |
 | [Property Scraping Demo](https://github.com/LGuillermoAngaritaG/scraping_properties) | A smaller property-scraping experiment. Public source · license unspecified. | `Web Scraping`, `Data Engineering` |
